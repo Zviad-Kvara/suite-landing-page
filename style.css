@@ -5,6 +5,7 @@
 }
 body {
   font-family: "Epilogue";
+  overflow-x: hidden;
 }
 header {
   display: flex;
